@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "name": "IPG_Lab4",
+  "color": [
+    0.638,
+    0.425,
+    0.795
+  ],
+  "frameworkVersion": "source",
+  "kind": "Scene",
+  "rendering": {
+    "api": "Vulkan",
+    "platform": "auto",
+    "window": {
+      "width": 1280,
+      "height": 720,
+      "resizable": true,
+      "fullscreen": false,
+      "borderless": false,
+      "transparent": false,
+      "vsync": true,
+      "imguiIni": "imgui.ini"
+    }
+  },
+  "paths": {
+    "assetDirectories": [
+      "assets"
+    ],
+    "shaderDirectories": [
+      "shaders"
+    ]
+  },
+  "libraries": []
+}
